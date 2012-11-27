@@ -1,4 +1,4 @@
 spud_core_admin
 ===============
 
-Spud Core Management (Site Management Gem)
+Repository has moved to http://github.com/spud-rails/spud_core_admin
